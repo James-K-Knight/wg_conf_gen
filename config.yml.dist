@@ -1,0 +1,7 @@
+Interface:
+  DNS: 10.10.10.1
+  MTU: 1420
+Peer:
+  AllowedIPs: 10.10.10.1/32
+  Endpoint: vpn.example.tld:51820
+  PublicKey:
